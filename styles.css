@@ -1,0 +1,95 @@
+
+body, h1, nav, ul, li, p {
+    margin: 0;
+    padding: 0;
+    list-style: decimal-leading-zero;
+}
+h2,p {
+    padding: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+margin:20px;
+
+}
+.logo img {
+    width: 150px;
+    height: auto;
+}
+
+.banner img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.navigation-menu {
+    background-color: #1803a4;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.navigation-menu li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.navigation-menu li:last-child {
+    margin-right: 0;
+}
+
+.navigation-menu a {
+    color: white;
+    text-decoration: dashed;
+    padding: 10px 15px;
+    font-weight: bold;
+}
+
+.navigation-menu a:hover {
+    background-color: #640000;
+}
+
+.services {
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+.services img {
+    max-width: 50%;
+    height: auto;
+    display: block;
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #830071;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+footer p {
+    margin-bottom: 10px;
+}
+
+.footer-navigation {
+    padding: 0;
+}
+
+.footer-navigation li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.footer-navigation li:last-child {
+    margin-right: 0;
+}
+
+.footer-navigation a {
+    color: white;
+    text-decoration: none;
+    padding: 5px 10px;
+    font-weight: bold;
+}
+
+.footer-navigation a:hover {
+    text-decoration: underline;
+}
