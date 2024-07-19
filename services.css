@@ -1,0 +1,36 @@
+
+body {
+  font-family: Tahoma, Arial, sans-serif;
+}
+
+header {
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+nav a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #333;
+}
+
+section {
+  padding: 20px;
+}
+
+.product {
+  margin-bottom: 20px;
+  display: inline-block;
+  margin: 20px;
+  padding: 20px;
+}
+
+.product img {
+  width: 200px;
+}
+
+footer {
+  background-color: #333;
+  color: #07995c;
+  padding: 10px;
+}
